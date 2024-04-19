@@ -1,0 +1,7 @@
+{
+    "scm.providerCountBadge": "visible",
+    "scm.alwaysShowActions": true,
+    "scm.alwaysShowRepositories": true,
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic"
+}
